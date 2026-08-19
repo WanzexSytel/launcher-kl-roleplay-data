@@ -1,8 +1,13 @@
 {
+  "app_status": true,
+  "game_version": "1.0",
   "version": "17.0",
   "version_name": "v17.0-KLRP",
   "update_url": "https://github.io",
+  "full_list_url": "LINK_DATA_FULL_DI_SINI",
   "lite_list_url": "https://www.mediafire.com/file/2ptjtnsqbq1aure/launcher-kl-roleplay-data.zip/file",
+  "samp_list_url": "LINK_SAMP_LIST_DI_SINI",
   "discord_url": "https://dsc.gg",
-  "changelog_url": "https://github.io"
+  "changelog_url": "https://github.io",
+  "app_testers": []
 }
