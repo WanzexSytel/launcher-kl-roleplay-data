@@ -1,0 +1,12 @@
+[
+  {
+    "imageUrl": "https://link-gambar-anda.com/gambar1.jpg",
+    "title": "Tajuk Gambar 1",
+    "subtitle": "Penerangan ringkas gambar 1"
+  },
+  {
+    "imageUrl": "https://link-gambar-anda.com/gambar2.jpg",
+    "title": "Tajuk Gambar 2",
+    "subtitle": "Penerangan ringkas gambar 2"
+  }
+]
